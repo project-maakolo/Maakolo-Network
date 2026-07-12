@@ -19,6 +19,12 @@ Maakolo is a cross-platform client-server architecture demonstrating the impleme
 * **Cross-Platform Implementation:** Deploying native network interfaces utilizing Flutter for mobile operating systems (Android/iOS).
 * **Backend Resilience:** Load testing a Python-based API designed for stateless dynamic tunnel provisioning.
 
+### 📅 Development Timeline
+This project represents approximately **8 months** of iterative research, protocol testing, and infrastructure hardening. Development focused on practical implementation of traffic obfuscation techniques and resilient backend architecture under real-world network conditions.
+
+### 📱 Client Application
+The Flutter-based mobile client source code is currently being prepared for public release and will be added to this repository in a forthcoming update. Pre-built binaries are distributed through official channels only.
+
 ### 🛠 Technical Stack
 * **Client Frontend:** Flutter (Dart) 
 * **Core Engine:** Xray-core / Sing-box framework
