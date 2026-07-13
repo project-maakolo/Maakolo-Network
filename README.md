@@ -34,5 +34,3 @@ The Flutter-based mobile client source code is currently being prepared for publ
 ### 🔐 Security & OpSec
 This project does not collect, store, or process real user metadata. The backend architecture is specifically engineered to demonstrate stateless key generation, zero-logs compliance, and secure node handover.
 
-### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
